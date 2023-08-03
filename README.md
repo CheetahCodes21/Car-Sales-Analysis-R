@@ -75,7 +75,7 @@ This mini-project provides a comprehensive analysis of the "mtcars" dataset, off
 
 ### Credits 🙏
 
-This mini-project was created by 🧑🏻‍💻[Chethan Pai] (https://github.com/CheetahCodes21) . It serves as a fun learning exercise for data analysis and recommendation systems using R.
+This mini-project was created by 🧑🏻‍💻[Chethan Pai](https://github.com/CheetahCodes21) . It serves as a fun learning exercise for data analysis and recommendation systems using R.
 
 ### Note 📝
 
